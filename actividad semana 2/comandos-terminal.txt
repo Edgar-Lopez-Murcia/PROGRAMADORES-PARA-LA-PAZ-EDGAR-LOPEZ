@@ -16,7 +16,7 @@ git init
 
 git status
 
-git add  .
+git add .
 
 git status
  
