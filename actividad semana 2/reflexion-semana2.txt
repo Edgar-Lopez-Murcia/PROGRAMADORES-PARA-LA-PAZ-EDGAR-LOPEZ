@@ -1,5 +1,6 @@
 Reflexión:
 
+
 yo considero que es muy importante que un desarrollador sepa utilizar bien la
 terminal para la navegación, creación y organización de archivos dentro de un proyecto
 por que permite realizar todos estos procesos de forma mas rápida y eficiente ya que 
