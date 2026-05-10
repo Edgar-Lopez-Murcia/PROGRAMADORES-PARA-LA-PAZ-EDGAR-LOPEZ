@@ -1,0 +1,14 @@
+Reflexión:
+
+yo considero que es muy importante que un desarrollador sepa utilizar bien la
+terminal para la navegación, creación y organización de archivos dentro de un proyecto
+por que permite realizar todos estos procesos de forma mas rápida y eficiente ya que 
+en ocasiones usar solo las carpetas que se encuentran en el computador puede ser mas demorado 
+mientras que con los comandos de la terminal se pueden crear, mover, copiar o eliminar 
+archivos rápidamente y además muchas herramientas de programación funcionan desde la terminal, como por 
+ejemplo cuando trabajamos con git desde muestro computador para realizar los trabajos 
+debemos trabajar con la consola para ya sea copiar o conectarnos a nuestros repositorios 
+y al final poder subir los documentos modificados al repositorio.
+
+por ultimo resulta fundamental aprender a usar la terminal por que muchas empresas usan la terminal
+directamente lo que facilita a largo plazo poder encontrar trabajos y adaptarse a ellos con mas facilidad. 

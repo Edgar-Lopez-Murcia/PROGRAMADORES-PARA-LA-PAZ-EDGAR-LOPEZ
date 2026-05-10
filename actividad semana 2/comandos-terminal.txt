@@ -1,0 +1,27 @@
+cd Documents
+
+ls
+
+mkdir semana2
+
+cd semana2
+
+touch preguntas-semana2.txt
+
+touch reflexion-semana2.txt
+
+touch comandos-terminal.txt
+
+git init 
+
+git status
+
+git add .
+
+git status
+ 
+git commit -m "Actividad semana 2"
+
+git remote add origin https://github.com/Edgar-Lopez-Murcia/PROGRAMADORES-PARA-LA-PAZ-EDGAR-LOPEZ.git
+
+git push -u origin main
