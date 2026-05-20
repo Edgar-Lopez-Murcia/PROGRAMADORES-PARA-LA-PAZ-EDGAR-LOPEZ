@@ -1,0 +1,14 @@
+Algoritmo de cómo compartir información confiable: 
+
+1. Buscar la información que deseamos compartir.
+2. leer información detalladamente.
+3. Revisar el autor o la fuente original.
+4. comparar información con otras fuentes.
+5. Buscar señales de alerta (manipulación, lenguaje alarmista).
+6. Evaluar que tipo de objetivo tiene la información.
+7. decidir si la información es realmente confiable.
+  * si, continuar.
+  * no, evitar compartir y finalizar.
+8. compartir información.
+
+Fin.
