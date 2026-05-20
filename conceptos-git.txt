@@ -1,0 +1,11 @@
+Explicación de conceptos básicos de Git: 
+
+*Repositorio: es un lugar dentro de GitHub donde subes las carpetas, los archivos o los cambios 
+de tus proyectos y llevas un control sobre este. Pueden trabajar mas de una persona en el repositorio 
+pero se recomienda trabajar  en ramas distintas para mantener un control de este proyecto.
+
+*Commit: es un comando de Git que nos permite dejar un registro de los cambios que realizamos
+en nuestro proyecto y sirve para guardar versiones del trabajo con un mensaje.
+
+*Push: es un comando que nos permite subir y actualizar al repositorio de GitHub ya sea 
+carpetas, archivos o cambios de nuestro proyecto que trabajamos de forma local.
