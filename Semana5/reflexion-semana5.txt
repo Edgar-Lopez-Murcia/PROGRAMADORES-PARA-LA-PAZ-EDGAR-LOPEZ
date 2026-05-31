@@ -1,2 +1,11 @@
-las podrían APIs ayudar a que las comunidades 
-compartan información, reportes o alertas de manera organizada
+Reflexion: 
+
+las APIs podrían ayudar a que las comunidades 
+compartan información, reportes o alertas de manera organizada ya 
+que son justamente estas la que permiten la interaccion entre el servidor y el
+usuario ya sea enviando información importante que debe ser verificada deforma responsable
+para que la comunidad este informada o ya bien las APIs pobriar permitir que los usuarios de la 
+comunidad puedadn subir información o reportes que veneficien a la communidad
+y haci todos podamos progresar y mejorar en comunidad para evitar problemas
+por falta de información o no comocer detalles importantes que 
+pasan en nuestra comunidad.
