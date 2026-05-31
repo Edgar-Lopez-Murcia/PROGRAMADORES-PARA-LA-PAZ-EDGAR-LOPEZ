@@ -8,7 +8,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('/saludo', (req, res) => {
-  res.send('Hola comunidad');
+  res.send('Hola querida comunidad');
 });
 
 app.get('/mensaje/:nombre', (req, res) => {
@@ -18,4 +18,12 @@ app.get('/mensaje/:nombre', (req, res) => {
 
 app.listen(3000, () => {
   console.log('Servidor ejecutándose en puerto 3000');
+});
+
+app.post('/reporte', (req, res) => {
+  const mensaje = req.body.mensaje;
+  res.json({
+    estado: "Reporte recibido",
+    mensaje: mensaje
+  });
 });

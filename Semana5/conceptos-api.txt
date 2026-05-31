@@ -1,0 +1,10 @@
+La ruta GET lo hace es solicitar información del servidor
+pero esta ruta POST lo que hace es permitir que el servidor 
+resiva la información que envia el usuario al servidor pero esta ruta en especifico
+lo que hace es cuando alguien envía un mensaje a la ruta /reporte, 
+el servidor toma ese mensaje desde req.body.mensaje y responde con un 
+objeto JSON indicando que el reporte fue recibido junto con el mensaje enviado.
+
+Justamente estas rutas son importantes por que permiten una comunicacíon efectiva entre 
+los miembros de nuestra comunidad y el servidor ayudando a que estos puedan reportar
+problemas, pedir información y muchas otras cosas mas.
