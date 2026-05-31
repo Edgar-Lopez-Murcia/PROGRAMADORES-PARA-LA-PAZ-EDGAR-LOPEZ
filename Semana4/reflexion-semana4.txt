@@ -1,0 +1,11 @@
+Reflexion: 
+
+yo considero que es importante que las personas en nuestras comunidades puedan desarrollar
+sus propias herramientas tecnológicas con tecnologías abiertas 
+como Node.js porque así pueden hacer soluciones que realmente 
+les sirvan para sus necesidades y además, al ser una tecnología 
+gratuita y de código abierto no tienen que gastar mucho dinero
+ni depender de empresas privadas, también ayuda a que más 
+personas aprendan sobre programación ya que facilita programar
+y estas herramientas permiten  que la tecnología sea más 
+accesible para todos y contribuya al desarrollo de nuestras comunidades.
