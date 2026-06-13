@@ -1,0 +1,13 @@
+Ejemplo de reporte 1:
+
+{
+  "tipo": "Seguridad",
+  "descripcion": "Falta de señalización vial en el cruce peatonal de la avenida principal"
+}
+
+Ejemplo de reporte 2:
+
+{
+  "tipo": "Movilidad",
+  "descripcion": "Vehículo abandonado obstruyendo la rampa de acceso para personas con discapacidad"
+}
