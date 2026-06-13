@@ -1,0 +1,29 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 72
+ETag: W/"48-TkubmQyV1y6P0P+Kk28W9cIIpqo"
+Date: Sat, 13 Jun 2026 14:02:34 GMT
+Connection: close
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+### incidencia 
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 191
+ETag: W/"bf-qpZvADb5ow8rI4c24FKpvj1Jz8g"
+Date: Sat, 13 Jun 2026 14:15:11 GMT
+Connection: close
+
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Gestión de residuos",
+  "descripcion": "Los vecinos informan que el contenedor principal de basura está desbordado y no ha sido vaciado esta semana."
+}

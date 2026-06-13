@@ -1,0 +1,16 @@
+POST http://localhost:3000/registro
+Content-Type: application/json
+
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+### Crear una incidencia nueva
+POST http://localhost:3000/incidencia
+Content-Type: application/json
+
+{
+  "tipo": "Gestión de residuos",
+  "descripcion": "Los vecinos informan que el contenedor principal de basura está desbordado y no ha sido vaciado esta semana."
+}
